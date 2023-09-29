@@ -1,5 +1,3 @@
-#![cfg(test)]
-
 use crate::{sha256::Sha256, Hasher};
 
 #[test]
